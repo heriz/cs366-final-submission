@@ -1,0 +1,209 @@
+!!python/object/apply:collections.defaultdict
+args: [!!python/name:builtins.list '']
+dictitems:
+  ? ''
+  : ['']
+  '''''': ['[*', '"', '''']
+  ',': [',']
+  -LRB-: [(, '[']
+  -RRB-: [)]
+  .: [., '!!!', '?', '??', '!!', '!!!.', '!']
+  ':': ['-', .., ':', '...', '[', ~~~, +, '~', ']', --]
+  CC: [but, OR, BUT, And, n, or, and, '&', (&, Or, buttt, AND]
+  CD: [25th, '21', 7th, 5-6pm, '8:30', '237', 5pm, CC240, 4-5pm, 240*, 6-minute, 1st*,
+    8pm, 7-8pm, '5:30', four, '8:45', 23rd, '1:37', <3, 4pm, '5:00', 12th, '2015',
+    27th, 8-10, '7:30', '200', '240', '19', 5-7pm, 743-7136, '6:00', '7', 5-8pm, two-three-seven,
+    3rd, one, '-6', '6', 15th, '2:24', '7:15', '5:56', 8-9pm, '8', '8:00', '11:29',
+    17th, '17', '9', 11/17, 4/21), '2', '13', '4:00', 7PM, 2nd, two, '6:30', '4',
+    7pm, ONE, '1', '212', 8-10pm, One, 21ST, '7:00', '3', 4-5*, '12:14', 4-5, 7-8,
+    thirty, '3:30', '300', '310', '20', '4:31', '5']
+  DT: [All, Each, these, That's, any, Today's, THE, Those, THIS, those, tonight's,
+    ALL, an, this, all, AN, a, da, THAT, some, another, A, many, every, Tonight's,
+    the, These, This, that's, 'no', each, The, that]
+  EX: [There, There's, there]
+  FW: [etc]
+  IN: [so, TOO, Of, Out, down, per, than, outside, inside, '@', 'On', ABOUT, in, if,
+    during, of, til, for, 'on', cuz, 'off', beyond, over, BEFORE, by, around, above,
+    whether, After, as, from, after, into, that, '4', ABOVE, If, via, through, So,
+    o, before, like, with, IN, except, that's, Before, FROM, about, at, For, within,
+    Whether, then, out, until, because]
+  JJ: [snowy, Happy, sexy, fine, second, unhappy, last, Great, communal, exciting,
+    Last, perfect, Sudanese-American, possible, interesting, unwitty, old, New, usual,
+    COOL, square, EXCITING, first, limited, evil, short, email, vivid, charged, CONCRETE,
+    spoken, ready, proud, annual, sure, mellow, fiery, Official, under-pants, favorite,
+    whole, internal, own, little, necessary, other, existential, few, amorphous, fine-feathered,
+    cruel, stoked, updated, entire, collaborative, temporary, dark, psyched, incredible,
+    semester's, inaccurate, "week\u2019s", Next, free, general, familiar, FANTASTIC,
+    good, excited, great, and/, we're, fun, SENIOR, Open, alternate, boring, such,
+    typical, pointless, senior, stupendous, glowing, nonflammable, wild, late, sweet,
+    refreshing, informal, environmental, permanent, multiple, SPECIAL, past, ROYAL,
+    Big, talented, upcoming, weekly, casual, crusty, phenomenal, funny, iambic, personal,
+    wonderful, creative, Annual, kind, INCREDIBLE, stunning, Perfect, effing, successful,
+    awesome, goosebumps, NEXT, new, strong, full, beautiful, same, fabulous, final,
+    GOOD, reasonable, small, single, extensive, busy, happy, special, unforgiving,
+    lovely, specific, available, original, Attached, exquisite, 4th, hard, brilliant,
+    super, essited, long, marvelous, Deep, cool, HAPPY, many, scarce, important, visual,
+    yearly, sunny, nice, amazing, national, sad, invincible, glorious, Good, black,
+    previous, Late, inconvenient, sincerest, inspiring, cozy, sensory, sorry, ferocious,
+    next]
+  JJR: [better, more]
+  JJS: [best, least, Best, happiest, most, loveliest, wordiest, coolest, dopest]
+  MD: [could, Can't, couldn't, Let's, we'll, can't, might, should, will, can, We'll,
+    would]
+  NN: [spring, campus, batch, pen, Food, seasick, letter, performance/workshop, slot,
+    chin, struggle, leadership, excitement, plant, open, mic, dinner, Beta, resistance,
+    language, reply, spearhead, collab, Today, student, glowin, store, hoot, Zine,
+    poster, Celebration, seat, month, water, break, skewl, show, art, wildness, advice,
+    detail, Retreat, dialogue, sign, fear, fun, stuff, actor, topic, narrative, CoLlAb,
+    night, rest, women, magic, Invitational, news, end, life, workshop, love, lo,
+    scheme, set, progress, popcorning'-style, exec, ARTIST, friday, plastic, tournament,
+    flux, dust, Reminder, haiku, tonight, tear, blackout, Bound, battle, fiction,
+    dream, work, whenisgood, fact, sustainability, retreat, universe, lecture, staff,
+    chill, poemz, today, bottom, meter, quote, sharing, lime, blizzard, math, picture,
+    self-expression, Love, poetry, pm-, swell, shoelace, everything, performer, y'all!,
+    time*, sunday, depth, keynote, Hype-woman, Sun, everyone, armor, poet, PUN, DAY,
+    paper, Mic, cleaning, audience, flower, Year, End, food, faith, start, L8R, evening,
+    Email, support, friend, studio, publication, cliche, description, thing, info,
+    exercise*, re, etc, heart, performance, writing, view, semester, preference, half,
+    ALERT, pm, space, collection, collaboration, pOeTry, WAY, ideas/prompts/etc, chance,
+    slam, TONIGHT, Member-at-Large, spot, stage, focus, luck, concept, flash, Tomorrow,
+    pentameter, nonsense, Study, conversation, page-turner, event, poem, archive,
+    scroll, hour, EVENT, weekend, original, piece, mind, alternative, host, one, lawn,
+    joy, vehicle, poetry*, opportunity, place, showcase, sunburn, bedtime, nature,
+    year's, pot, meeting, official, couple, rhyme, coffeehouse, page, video, REMINDER,
+    commune, patio, part, sonnet, ROCK, Workshop, freestyle, inbox, email, Exec, shape,
+    Shit, prompt, midst, lack, day, world, entry, impact, schedule, feet, SUN, metaphor,
+    order, deadline, tralala, something, champion, woman, lighting, Post-, cue, theme,
+    baby, name, Night, floor, Collab, Open, word, ATM, -6pm, excuse, cough, position,
+    weekly, year, exclamation, color, Line, atmosphere, tomorrow, stop, location,
+    time, loss, mother, dragon, power, link, style, spotlight, 'tonight]', laptop,
+    duo, information, folder, surprise, shuttle, research, none, campus-wide, spittle,
+    toilet, moment, minute, team, SHOWCASE, swoon, course, stand, challenge, compromise,
+    body, affinity, mixing, Preference, way, blast, feedback, cozy, perspective, definition,
+    material, process, breathing, reminder, dictionary, centred, game, CC, constitution,
+    experience, brilliance, artist, company, TODAY, shoutout, celebration, sesh, prose,
+    transportation, brainstorm, session, olvidado, turd-kiss, lead, honor, STUFF,
+    Showcase, zine, angsty, person, FOCUS, clothing, bla$t, novel, general, WEEKEND,
+    anything, snow, corpse, future, INTROVERT, fish, love/hate/anti-love/anti-sad,
+    action, list, environment, Today's, animal, hay, website, group, identity, class,
+    anyone, board, score, artz, drill, venture, AM, PM, music, grave, Department,
+    winter, entertainment, napowrimo, salt, doesn't, practice/playtime, notebook,
+    mailing, sea, study, spam, case, writing*, poetree, computer, rain, Education,
+    sight, Intern, labor, fan, response, black, week, shanty, GUEST, TOMORROW, mingling]
+  NNP: [Love, ZINEZ, Wordiests, campus, youtube, Finance, Coffeehouse, Lady, Abdurraqib,
+    Netflix, Tuesday, Tuesday's, mmm's, FRUIT, fb, Vassar, Tran, Paltz, Sundays, CC,
+    peace, Square, American/AAPI, facebook, Lewis, CC237, Native, K, Wordmsiths, Ellie,
+    Performance, Vassar's, New, Beau, square, Safia, BSU, Streep, van, Kelly, Thursday*,
+    BreakBeat, Aviva, Latino, Gumbs, CLOUDS, Totally, Break, scorpions, Richard, Identity,
+    Mexicano, Feb, Exec, Pauline, Month), Paul, September, Show, CUPSI, Sun, SUNSHINE,
+    Open-Mic*, REPEAT, President, White, Women's, Nate, GB, York-, Raven/Kimpossible,
+    Wednesday, ROCKY, Garden, APRIL, Latino/a, Fri, Kim's, c, DAY, Thesis, Operations,
+    C, Mic, Chapel, groundhogs, Austin, Valentine's, Alexis, alex, ZINE, National,
+    SUN, Mike, Zine, Andrew, Studies, Le, tralala, Antony, Location, ALANA, Kiese,
+    L8R, Community, Email, WEDNESDAY, Asian/Asian, Matsunaga, Laymon, peppiness, ge,
+    Professor, Opportunity, Faculty, Africana, d, monday, Kim, 3/9, gd, Kayleigh,
+    we're, etc, Open, Storm, Calais, Mon, O'Connor, Burgerfi, Saturday, VC, women's,
+    ShoeStar, College, Open-Mic, Rosa, Wurdsmithz, Sesame, The, Miranda, Danez, sunday's,
+    Month, Athj, Black, today's, Sunday's, Marshall, Nov, Drive-bys, Armstrong, Performs,
+    NAPOWRIMO, Peace, Today's, Grand, Aileen, deer, Alex's, Gabrielle, CHAPEL, American/Black,
+    Bozhkov, Loeb, Tralala, Friday, Shoe, Course, Soon, International, Facebook, SUNY,
+    I'm, Invitational, 23RD, Fracentese, Girls, NJ, American, Students, Lehman, Schuster,
+    FB, BUSINESS, Street, Center, Aja, Scales, Sculpture, Greens, Rocky, VP, CC237*,
+    PM, '>', Wordsmiths, Department, Board, Smith, Twill, Chicano, March, friday,
+    Spies/That's, Poetry, Main, Commons, Antony's, TBD, Royal, Leonel, Class, Cheikh,
+    Schu, Martel, Nghiem, KS, Virginia, pesky, November, DOESN'T, Button, Vamos, Elhillo,
+    Leo, Drew, awesomeness, WORKSHOP, Friday's, TX, Fantasia, SnOw, Ally, lotsa, Libby,
+    Wonderwomen, Aula, CC240, Sia, UPC, SAFIA, Alex, Spring, Torres, Apr, Monday,
+    Nnennia, English, Tuesdays, February, Sunday, tonight's, Tue, week's, CU, Care,
+    Royal's, Striver's, April, b2, Yim, SATURDAY, vassar, Writing, MARCH, Art, Union,
+    Daisy, Don't, Sudanese, History, nanowrimo, kim, Hannah, april, <>, SHOWCASE,
+    Library, 7PM, Monet, NaPoWriMo, EB, november, LAWN, Lawn, BurgerSlam, Thursday,
+    Self, Committee, Day, Wade-Lewis, Row, African, Communications, Chair, Slam, May,
+    Wade, Carlson, Hanif, WORDSMITHS, Asian]
+  NNS: [syllables, campus, performances, interactions, projects, summers, shanties,
+    DAYS, guts, apologies, ears, voicemails, gatherings, ones, stops, additions, tears,
+    kinds, events, students, cyphs, weekend's, parts, prompts, alligators, results,
+    truths, friends, musicians, artists, veterans, pieces, experiences, songs, voices,
+    battles, gems, faces, lovelies, outlets, minutes, odes, midterms, issues, finals,
+    Meetings, FRIENDS, Seniors, THINGS, members, folks, eyes, Hummingbirds, Thanks,
+    styles, ways, breaks, ogethers, questions, plants, POETS, poets, feelings, orgs,
+    naps, details, places, paintings, things, performers, Dearests, locations, elections,
+    HMats, Women, Sunday's, poems, animals, titles, numbers, seats, options, wordsmiths,
+    ANNOUNCEMENTS, workshops, ideas, women, hours, pens, prophets, SCALES, Workshops,
+    Greens, people, Scales, lobsters, videos, presences, Wordsmiths, accomplishments,
+    IMAGES, fingers, times, spaces, emails, slams, updates, submissions, words, hummingbirds,
+    ponies, pals, terms, ladies, toasts, snacks, changes, ppl, ghosts, haikus, peeps,
+    Congrats, sorts, Congratulations, lots, Elections, points, notes, burns, year's,
+    drinks, meetings, thanks, weekends, pix, weeks, senses]
+  PRP: [you'd, She, you're, HE, I'll, itself, y'all, We, ME, U, ya, I've, They, us,
+    him, I'm, they, Her, Ya'll, it, Y'all, whatever, you've, ours, I, It's, IT, You,
+    u, i, me, yourself, you, ourselves, we're, them, YOU, her, we've, "I\u2019ll",
+    it's, She's, It, we, lemme, she's]
+  PRP$: [YOUR, Our, my, their, yours, your, our]
+  RB: [so, much, always, afar, rly, Not, AWAY, Here, somehow, early, SO, again, just,
+    constantly, literally, not, soon, finally, Esp, maybe, We're, ASAP, together,
+    perhaps, willingly, So, there, kinda, really, alas, Ideally, Again, NOT, ONLY,
+    as, still, also, else's, far, hopefully, Also, Finally, Here's, never, yet, forward,
+    clearly, SUPER, currently, newly, here, enough, basically, only, internationally-renowned,
+    ever, back, QUITE, around, HERE, too, aka, quite, later, Much, well, solely, ablaze,
+    There, right, elsewhere, downright, now, officially, tonight's, woefully, almost,
+    accidentally, super, Just, Additionally, probably, here's, nationally, ago, very,
+    ALSO, then, aloud, gladly]
+  RBR: [more]
+  RBS: [most]
+  RP: [OUTSIDE, out, down, 'off', up]
+  TO: [To, TO, to]
+  UH: [so, 'NO', whoo, AKA, hurrah, there, psst, Peace, '*', y'all, YAYY, Hey, SO,
+    ok, yayaya, please, <3, uh, P.S., '{', Hello, xoxo, (*, okay, Yay, Thanks, Well,
+    thnx, wow, ']', Please, moly, '[', '}', PS, '**', Holy, duh), YAY-, <>, cue, Anyways,
+    Hi, YAYYY, '~', YAY, dearest, '*)', hehe, Oh, hi, oh-so-well, pls, ), So, Yo,
+    awe, HEY, aka, hey, OH, t-t, k, '][', thanks, hello, victory, Elhillo, '=[', yup,
+    Dear]
+  VB: [rewrite, read, describe, Share, protect, unite, Stay, forget, get, enjoy, please,
+    borrow, feature, pack, fuck, wait, '*LiVe', check, throw, believe, Let, have,
+    share/listen, email, profess, be, give, RSVP, woke, find, Make, Suggest, thank,
+    talk, Be, figure, Find, cry, Welcome, snap, COME, make, Write, Come, ask, happen,
+    keepya, Sign, lead, Meet, start, reinvigorate/rewrite/reinvent, want, Prepare,
+    FOCUS, drink, learn, listen, support, extend, reconvene, MISS, Soothe, WRITE,
+    let, re-write, DO, sign, know, celebrate, weep, hype, laugh, Get, TRY, prepare,
+    FORGET, come, shoot, share, eat, nourish, drive, Check, produce, run, decide,
+    bring, Give, catch, remove, KNOW, join, b, fill, go, Discuss, feel, receive, end,
+    welcome, try, love, tell, restart, set, exist, waatch, mean, pass, sing, laughs,
+    attend, keep, Have, think, Invite, close, mention, move, miss, hang, Join, LaUgH,
+    Brainstorm, gather, take, Do, LoVe, DON'T, help, Thank, invite, remind, fight,
+    remember, PERFORM, worry, perform, See, Don't, meet, pull, handle, see, wear,
+    MAKE, kick, hear, Enjoy, send, Try, Keep, write, Bring, do, continue, don't, contact,
+    change, like, Take, pick, watch]
+  VBD: [were, came, suggested, delivered, collaborated, MEANT, took, lamented, wrote,
+    heard, cried, dreamt, learned, callya, missed, lined, told, titled, Hosted, competed,
+    had, held, called, recognized, was, won, WS, shared, involved, became, posted,
+    sent, created, didn't, wrapped, spoken, explored, helped, admitted, led, wanted,
+    experimented, asked, talked, brought, graduated, lost, performed, interested]
+  VBG: [Meeting, talking, saying, hosting, doing, celebrating, helping, starting,
+    changing, workshopping, speaking, prompting, collaging, mourning, reaching, shifting,
+    reading, crossing, driving, COVERING, missing, working, deciding, generating,
+    joining, exploring, coming, Fawning, having, giving, treating, glowing, featuring,
+    COMING, happening, signing, taking, Writing, accepting, considering, filling,
+    organizing, Reading, submitting, Being, leading, willing, feeling, running, going,
+    withholding, looking, serenading, listening, Sharing, making, applying, pop-in,
+    sharing, sending, loving, seeing, being, meeting, leaving, qualifying, aching,
+    using, participating, mirrors/mirroring, Celebrating, writing, relaxing, holding,
+    attending, swaying, Sending, playing, hoping, clipping, getting, collab-ing, planning,
+    creating, performing]
+  VBN: [mesmerized, evolved, removed, seen, missed, produced, written, canceled, based,
+    decided, provided, wondered, held, been, thrilled, worried, given, located, invited,
+    left, disappointed, stunned, laughed, involved, shared, posted, volunteered, relieved,
+    highlighted, SUPPOSED, made, crossed, led, pumped, exhausted, done, intended,
+    interested]
+  VBP: [take, Are, await, DON'T, hate, involve, WANNA, are, am, hope, "doesn\u2019\
+      t", Want, call, need, want, fill, go, Dont, haven't, Don't, DONT, lub, love,
+    INVITE, have, "aren\u2019t", promise, mean, Let's, "don\u2019t", write, do, know,
+    don't, bother, keep, Have, applaud, think, thank, Hope, recognize, sort, come,
+    luv]
+  VBZ: [takes, incorporates, describes, forgets, IS, works, means, dribbles, writes,
+    seems, CARES, comprises, stands, goes, let's, has, breaks, poses, Looks, is, rhymes,
+    prompts, Let's, Wordsmiths, snaps, Is, Hanif's, runs, helps, vuelos, moves, does,
+    knows, covers]
+  WDT: [which, that]
+  WP: [What, what, who]
+  WRB: [why, how, When, where/if, whichever, where, b/c, when, how-to-slam, y]
